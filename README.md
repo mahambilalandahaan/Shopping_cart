@@ -60,7 +60,7 @@ Enter quantity of flour: 2
 
 ### 👩‍💻 Author
 **Madiha Atif**  
-🔗 [GitHub Profile](https://github.com/) _()_
+🔗 [GitHub Profile](https://github.com/) _(https://github.com/mahambilalandahaan/Shopping_cart.git)_
 
 ---
 
